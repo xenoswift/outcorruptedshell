@@ -3,6 +3,7 @@
 ## Version: 1.0
 ## Bootstrap: Bootstrap.js
 vanilla.js
+AgriCraft.js
 AM2.js
 AppliedEnergistics2.js
 Bibliocraft.js

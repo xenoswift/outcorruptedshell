@@ -1,4 +1,5 @@
-var AE2_enabled = true;
+var AppliedEnergistics2_enabled = true;
+var AgriCraft_enabled = true;
 var AM2_enabled = true;
 var Bibliocraft_enabled = true;
 var BuildCraft_enabled = true;
